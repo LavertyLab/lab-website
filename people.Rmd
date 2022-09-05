@@ -61,6 +61,6 @@ Theresa Laverty (she/her) will be joining the [Department of Fish, Wildlife, and
 
 ### This Could Be You!
 
-Our lab is currently recruiting students. Please visit the ["Join the Lab"](opportunities.html) tab to learn more about the positions and how to apply.
+Our lab is currently recruiting students. Please visit the ["Join the Lab"](join-the-lab.html) tab to learn more about the positions and how to apply.
 
 :::

@@ -351,8 +351,6 @@ create_footer <- function() {
     fontawesome::fa('creative-commons-sa', fill = fill, height = height),
     '](https://creativecommons.org/licenses/by-sa/4.0/)\n',
     br(),
-    'Inspired by the [URBANxNATURE Lab](https://urbanxnaturelab.com/) and [John Paul Helveston](https://www.jhelvy.com/)\n',
-    br(),
     fontawesome::fa('wrench', fill = fill, height = height), ' Made with the [',
     fontawesome::fa('r-project', fill = fill, height = height),
     '](https://cran.r-project.org/) ',

@@ -1,0 +1,28 @@
+name: "website"
+title: "The Laverty Lab"
+description: |
+  Laverty Lab
+output_dir: "_site"
+favicon: "images/PhyloPic.18bfd2fc.Yan-Wong.Chiroptera_Corynorhinus_Corynorhinus-townsendii_Vespertilio-Noctilio_Vespertilionidae_Vespertilionoidea_Yangochiroptera.svg"
+twitter:
+  site: "@theresalaverty"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Values"
+      href: values.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Join the Lab"
+      href: join-the-lab.html
+output: 
+  distill::distill_article:
+    theme: theme.css
+    includes:
+      in_header:
+      - _includes/header.html

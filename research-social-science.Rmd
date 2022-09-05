@@ -1,0 +1,23 @@
+---
+title: "Evaluating the social dimensions of wildlife conservation"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+d-title, d-byline {
+  display: none
+}
+</style>
+
+<br>
+
+````{r, fig.align = "center", out.width = "80%"}
+knitr::include_graphics("images/research/HereroWomen.JPG")
+````
+
+# Evaluating the social dimensions of wildlife conservation
+Wildlife conservation is as much about people as it is about species or ecosystems, so my research includes human dimensions where possible. By understanding human values and attitudes toward wildlife as well as the frequency and types of interactions with varying species, we try to highlight [conservation challenges and opportunities](https://doi.org/10.1111/csp2.35). We are also interested in [cultural stories](https://doi.org/10.2993/0278-0771-41.1.70) about wildlife as these may influence future conservation attitudes and behaviors.

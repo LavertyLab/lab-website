@@ -1,0 +1,93 @@
+---
+title: "Research"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+d-title, d-byline {
+  display: none
+}
+</style>
+```{r layout="l-screen", echo=FALSE}
+knitr::include_graphics("images/banners/EPHO.JPG")
+```
+
+<h2>Current Research</h2>
+<div class="wrapper">
+
+<div>
+<a href = research-distributions.html>
+<div class="polaroid">
+<img src="images/research/LeptoRange-small.jpg" alt="Leptonycteris yerbabuenae range map" style="width:100%">
+<div class="container">
+<h4>Understanding species distributions</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div>
+<a href = research-food-webs.html>
+<div class="polaroid">
+<img src="images/research/CaimanDiet.jpg" alt="Lizard skull and feet found in the stomach contents of an Amazonian caiman" style="width:100%">
+<div class="container">
+<h4>Determining food web relationships</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div>
+<a href = research-pva.html>
+<div class="polaroid">
+<img src="images/research/Pteropus-small.JPG" alt="Pteropus rufus roosting in a tree" style="width:100%">
+<div class="container">
+<h4>Assessing population viability and conservation needs</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div>
+<a href = research-natural-history.html>
+<div class="polaroid">
+<img src="images/research/CISE-small.JPG" alt="Wing glands on Cistugo seabrae" style="width:100%">
+<div class="container">
+<h4>Addressing gaps in natural history</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div>
+<a href = research-social-science.html>
+<div class="polaroid">
+<img src="images/research/HereroWomen-small.JPG" alt="Herero women in northwestern Namibia" style="width:100%">
+<div class="container">
+<h4>Evaluating the social dimensions of wildlife conservation</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div>
+<a href = research-diversity.html>
+<div class="polaroid">
+<img src="images/research/Sesfontein-small.JPG" alt="Showing a bat to young girls in northwestern Namibia" style="width:100%">
+<div class="container">
+<h4>Supporting diversity, equity, and inclusion in ecology and conservation</h4>
+</div>
+</div>
+</a>
+</div>
+
+</div>
+
+
+
+
+

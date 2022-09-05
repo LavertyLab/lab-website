@@ -1,0 +1,65 @@
+---
+title: "Theresa Laverty"
+image: "images/people/theresa-laverty.jpg"
+links:
+  - label: '<i class="ai ai-google-scholar fa-lg"></i>'
+    url: "https://scholar.google.com/citations?user=lbgxJ2UAAAAJ&hl=en"
+  - label: '<i class="ai ai-researchgate fa-lg"></i>'
+    url: "https://www.researchgate.net/profile/Theresa-Laverty-2"
+  - label: '<i class="ai ai-orcid fa-lg"></i>'
+    url: "https://orcid.org/0000-0003-1727-5943"
+  - label: '<i class="fab fa-github fa-lg"></i>'
+    url: "https://github.com/theresalaverty"
+  - label: '<i class="fab fa-twitter fa-lg"></i>'
+    url: "https://twitter.com/theresalaverty"
+  - label: '<i class="fa fa-envelope fa-lg"></i>'
+    url: "mailto:tlaverty@uchicago.edu"
+twitter:
+  creator: "@theresalaverty"
+  site: "@thereslaverty"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+source(file.path("R", "functions.R"))
+ library(distilltools)
+ library(metathis)
+ # meta() %>%
+ #   meta_description(
+ #     "The personal website of John Paul Helveston"
+ #   ) %>%
+ #   meta_name("github-repo" = "jhelvy/jhelvy_distill") %>%
+ #   meta_viewport() %>%
+ #   meta_social(
+ #     title = "jhelvy.com",
+ #     url = "https://jhelvy.com/",
+ #     image = "https://jhelvy.com/images/helveston.png",
+ #     image_alt = "A photo of John Paul Helveston",
+ #     og_type = "website",
+ #     og_author = c("John Paul Helveston"),
+ #     twitter_card_type = "summary",
+ #     twitter_creator = "@JohnHelveston"
+ #   )
+```
+ 
+[Pronouns](https://pronouns.org/what-and-why): she/her/hers
+
+In January 2023, Theresa Laverty will be beginning an assistant professor position in the [Department of Fish, Wildlife, and Conservation Ecology](https://fwce.nmsu.edu/) at New Mexico State University. Theresa is currently a postdoctoral scholar in the [Department of Ecology & Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. 
+
+Theresa's research answers questions rooted in applied population and community ecology and often takes place outside of protected areas -- where humans, livestock, and wildlife interact. Her goal is to understand the basic ecology of a system, including the roles people play in the environment, in hopes of providing information that can assist managers and conservation scientists to make informed management decisions.
+
+When Theresa is not behind a computer or out in the field, she enjoy all things outdoors—trail running, backpacking, cross country skiing, photographing wildlife, etc.
+
+## Academic appointments
+
+  * 2021 - present: Postdoctoral Scholar, Department of Ecology & Evolution, University of Chicago, Supervisor: Dr. Cara Brook  
+  * 2019 - 2021: Postdoctoral Fellow, Department of Fish, Wildlife, and Conservation Biology, Colorado State University, Supervisor: Dr. Kathryn Stoner
+
+## Academic history
+
+  * 2019: PhD in Fish, Wildlife, and Conservation Biology, Colorado State University, Advisor: Dr. Joel Berger  
+    + Dissertation- Bats, elephants, and their food: A conservation perspective on trophic interactions in the Namib Desert  
+  * 2010: AB in Ecology and Evolutionary Biology, Princeton University, Advisor: Dr. Andrew Dobson  
+    + Thesis- Niche overlap in the diets of three Amazonian caiman species

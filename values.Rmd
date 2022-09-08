@@ -19,7 +19,7 @@ knitr::include_graphics("images/banners/gorilla2.JPG")
 ```
 
 <h2>Values</h2>
-Welcome to the Laverty Lab! We study wildlife behavior at the population- and community-levels, often with the goal of sustainably conserving  biological diversity. We also value the diversity of people with whom we engage and aim to make our research (data, code, and findings) available to broad audiences. 
+Welcome to the Laverty Lab! We study wildlife behavior at the individual-, population-, and community-levels, often with the goal of sustainably conserving  biological diversity. We also value the diversity of people with whom we engage and aim to make our research (data, [code](https://github.com/LavertyLab), and findings) available to broad audiences. 
 
 This page borrows heavily from the superb lab value statements of the [Poisot Lab](https://poisotlab.io/) at the Université de Montréal and the [Brook Lab](https://brooklab.org/) at the University of Chicago.
 

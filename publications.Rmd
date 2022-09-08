@@ -44,7 +44,7 @@ knitr::include_graphics("images/banners/marmot.JPG")
 ```
 
 <h2>Publications</h2>
-<center> <p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty@uchicago.edu](mailto:tlaverty@uchicago.edu).</p>
+<center> <p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} uchicago.edu](mailto:tlaverty@uchicago.edu).</p>
 </center>
 
 # Peer-reviewed journal articles

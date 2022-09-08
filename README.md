@@ -1,6 +1,6 @@
 ## Laverty Lab website README
 
-This is a repository for the Laverty Lab website, built using the [{distill}](https://rstudio.github.io/distill/) R package and deployed with [netlify](https://www.netlify.com/). Our {distill} website was inspired by those of [URBANxNATURE Lab](https://urbanxnaturelab.com/) and [John Paul Helveston](https://www.jhelvy.com/).
+This is a repository for the [Laverty Lab website](lavertylab.org), built using the [{distill}](https://rstudio.github.io/distill/) R package and deployed with [netlify](https://www.netlify.com/). Our {distill} website was inspired by those of [URBANxNATURE Lab](https://urbanxnaturelab.com/) and [John Paul Helveston](https://www.jhelvy.com/).
 
 To build the website, run build-site.R which will also update the date in the site's footer. 
 

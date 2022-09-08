@@ -2,7 +2,7 @@
 title: "The Laverty Lab"
 description: A conservation science and wildlife ecology lab at NMSU
 base_url: https://lavertylab.org/
-preview: images/NMSU_NoU-Crimson.png
+preview: images/banners/ocotillo.jpg
 #description: |
 #  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website

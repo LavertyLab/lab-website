@@ -22,7 +22,7 @@ d-title {
 ```
 
 ```{r layout="l-screen", echo=FALSE}
-knitr::include_graphics("images/banners/rhino.JPG")
+knitr::include_graphics("images/banners/elephants.JPG")
 ```
 
 ## Faculty

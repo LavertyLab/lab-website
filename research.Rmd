@@ -13,7 +13,7 @@ d-title, d-byline {
 }
 </style>
 ```{r layout="l-screen", echo=FALSE}
-knitr::include_graphics("images/banners/EPHO.JPG")
+knitr::include_graphics("images/banners/mistnet.JPG")
 ```
 
 <h2>Current Research</h2>

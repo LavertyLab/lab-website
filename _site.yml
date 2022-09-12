@@ -6,6 +6,13 @@ output_dir: "_site"
 favicon: "images/PhyloPic.18bfd2fc.Yan-Wong.Chiroptera_Corynorhinus_Corynorhinus-townsendii_Vespertilio-Noctilio_Vespertilionidae_Vespertilionoidea_Yangochiroptera.svg"
 twitter:
   site: "@theresalaverty"
+google_analytics: "G-49T8MVLFFT"
+cookie_consent:
+  style: simple
+  type: express
+  palette: light
+  lang: en
+  cookies_policy: url
 navbar:
   right:
     - text: "Home"

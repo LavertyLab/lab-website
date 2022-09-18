@@ -47,7 +47,7 @@ knitr::include_graphics("images/banners/marmot.JPG")
 <center> <p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} uchicago.edu](mailto:tlaverty@uchicago.edu).</p>
 </center>
 
-# Peer-reviewed journal articles
+## Peer-reviewed journal articles
 
 [16]  **Laverty TM**, Stoner KE. 2022. In search of bachelorettes: Observations of male Leptonycteris yerbabuenae with dorsal patches across its range. Therya 13(2): 163–170. DOI: [10.12933/therya-22-1146](https://doi.org/10.12933/therya-22-1146)
 
@@ -112,6 +112,6 @@ knitr::include_graphics("images/banners/marmot.JPG")
 <a href="https://news.mongabay.com/2013/03/crocodilian-competition-may-hinder-conservation-efforts-in-amazon/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Mongabay</a> 
 </div>
 
-# Invited book chapters
+## Invited book chapters
 
 [1]  **Laverty TM**. 2020. The Namib Desert and its bats. In: Goldstein, MI, DellaSala, DA (eds.), Encyclopedia of the world's biomes, vol. 2. Oxford: Elsevier, pp. 181–192. DOI: [10.1016/B978-0-12-409548-9.12011-1](https://doi.org/10.1016/B978-0-12-409548-9.12011-1)

@@ -345,7 +345,7 @@ create_footer <- function() {
   height <- '14px'
   
   footer <- HTML(paste0(
-    '© 2022 The Laverty Lab [',
+    '© 2022 [The Laverty Lab](https://github.com/LavertyLab/lab-website) [',
     fontawesome::fa('creative-commons', fill = fill, height = height),
     fontawesome::fa('creative-commons-by', fill = fill, height = height),
     fontawesome::fa('creative-commons-sa', fill = fill, height = height),

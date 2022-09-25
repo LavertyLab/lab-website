@@ -25,7 +25,7 @@ d-title {
 knitr::include_graphics("images/banners/elephants.JPG")
 ```
 
-## Faculty
+## Principal Investigator
 :::float-left
 
 <img src="images/people/theresa-laverty2.jpg" width="200px">

@@ -48,7 +48,7 @@ Theresa Laverty (she/her) will be joining the [Department of Fish, Wildlife, and
 <div style="display: inline-block">
 <a href=https://twitter.com/theresalaverty class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
 <div style="display: inline-block">
-<a href=mailto:tlaverty@uchicago.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> tlaverty {at} uchicago.edu</a>
+<a href=mailto:tlaverty@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> tlaverty {at} nmsu.edu</a>
 </div>
 </center>
 

@@ -28,7 +28,7 @@ knitr::include_graphics("images/banners/elephants.JPG")
 ## Principal Investigator
 :::float-left
 
-<img src="images/people/theresa-laverty2.jpg" width="200px">
+<img src="images/people/theresa-laverty2.jpg" width="250px">
 
 ### Theresa M. Laverty, Ph.D.
 
@@ -57,7 +57,15 @@ Theresa Laverty (she/her) will be joining the [Department of Fish, Wildlife, and
 
 :::float-left
 
-<img src="images/people/NYTH.png" width="200px">
+<img src="images/people/iona-rohan.jpeg" width="250px">
+
+### Iona Rohan 
+
+Iona Rohan (she/her) is a Master’s student co-advised by [Dr. Jennifer Frey](https://fwce.nmsu.edu/faculty-staff/jennifer-frey.html) in the [Department of Fish, Wildlife, and Conservation Ecology](https://fwce.nmsu.edu/). She is studying the effects of wind energy development on terrestrial mammals in central New Mexico. Prior to NMSU, Iona spent two years monitoring northern spotted owls as a seasonal wildlife technician for the US Forest Service. She earned her B.S. in Environmental Science and Terrestrial Resource Management in 2020 from the University of Washington, where she volunteered in a genetics lab identifying individual coyotes with fecal genotyping. Her undergraduate research project consisted of a spatially explicit capture-recapture model to estimate seasonal coyote population density in relation to wolf pack home ranges in eastern Washington. 
+\
+\
+
+<img src="images/people/NYTH.png" width="250px">
 
 ### This Could Be You!
 

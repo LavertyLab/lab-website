@@ -33,7 +33,7 @@ knitr::include_graphics("images/banners/mistnet.JPG")
 <div>
 <a href = research-food-webs.html>
 <div class="polaroid">
-<img src="images/research/CaimanDiet.jpg" alt="Lizard skull and feet found in the stomach contents of an Amazonian caiman" style="width:100%">
+<img src="images/research/CaimanDiet-small.jpg" alt="Lizard skull and feet found in the stomach contents of an Amazonian caiman" style="width:100%">
 <div class="container">
 <h4>Determining food web relationships</h4>
 </div>

@@ -23,6 +23,10 @@ Welcome to the Laverty Lab! We study wildlife behavior at the individual-, popul
 
 This page borrows heavily from the superb lab value statements of the [Poisot Lab](https://poisotlab.io/) at the Université de Montréal and the [Brook Lab](https://brooklab.org/) at the University of Chicago.
 
+## Land Acknowledgment
+
+New Mexico State University honors Native American knowledges and worldviews based on intimate relationships to the natural world. The genesis of the Southwest Indigenous Peoples, including the Pueblo, Navajo, and Apache, established their guardianship of the lands now occupied by New Mexico State University. As the state’s Land-Grant University, we acknowledge and respect the sovereign Indian Nations and Indigenous Peoples. We pledge to have a meaningful and respectful relationship with the sovereign Indian Nations, Indigenous communities, and Native American Peoples within the institution. The Laverty Lab also promises to extend these relationships to the Indigenous communities that have called and/or continue to call our study areas home. 
+
 ## Code of conduct
 
 The Laverty Lab is dedicated to a **harassment- and discrimination-free experience for everyone**. We recognize and celebrate that a diverse and inclusive scientific community is more productive, innovative, and impactful. We welcome and encourage diversity in our group. 

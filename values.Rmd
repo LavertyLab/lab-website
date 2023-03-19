@@ -44,4 +44,6 @@ We ask that all members of our lab to conform to the following Code of Conduct.
   * Respect privacy and confidentiality in cases where data or research products contain sensitive information. Do no harm.
   * Remember that research developed within the lab, especially when it involves multiple lab members, is a collective good, and that using it for spin-off ideas must have explicit consent of all persons involved.
 
-To learn more about Dr. Laverty's advising philosophy and expectations of graduate students, please visit this [working document](https://docs.google.com/document/d/1D4177iBaGw3BkTSVnhm1vDa9mx60WFw6YIQZLR7LpEo/edit?usp=sharing).
+## Advising Philosophy
+
+To learn more about Theresa's advising philosophy and expectations of graduate students, please visit this [working document](https://docs.google.com/document/d/1D4177iBaGw3BkTSVnhm1vDa9mx60WFw6YIQZLR7LpEo/edit?usp=sharing).

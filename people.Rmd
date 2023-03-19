@@ -69,6 +69,8 @@ Iona Rohan (she/her) is a Master’s student co-advised by [Dr. Jennifer Frey](h
 
 <center>
 <div style="display: inline-block">
+<a href=https://github.com/ionarohan class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
+<div style="display: inline-block">
 <a href=mailto:irohan@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> irohan {at} nmsu.edu</a>
 </div>
 </center>
@@ -86,6 +88,8 @@ Brandi Stevenson (she/her) is a Master’s student in the [Department of Fish, W
 :::
 
 <center>
+<div style="display: inline-block">
+<a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
 <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
 <div style="display: inline-block">

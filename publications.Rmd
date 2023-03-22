@@ -49,6 +49,8 @@ knitr::include_graphics("images/banners/marmot.JPG")
 
 ## Peer-reviewed journal articles
 
+[17]  Wilkins K, Carroll SL, Davis KP, Hauptfeld R, Jones MS, Larson CL, **Laverty TM**, Pejchar L. In press. Sexual harassment disproportionately affects ecology and evolution graduate students with multiple marginalized identities in the USA. BioScience.
+
 [16]  **Laverty TM**, Stoner KE. 2022. In search of bachelorettes: Observations of male Leptonycteris yerbabuenae with dorsal patches across its range. Therya 13(2): 163–170. DOI: [10.12933/therya-22-1146](https://doi.org/10.12933/therya-22-1146)
 
 <left>

@@ -109,6 +109,13 @@ Holly Whited (she/her) is joining the lab in fall 2023 as a Master’s student i
 
 :::
 
+<center>
+<div style="display: inline-block">
+<a href=https://twitter.com/HollyAWhited class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
+<div style="display: inline-block">
+<a href=mailto:hwhited@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> hwhited {at} nmsu.edu</a>
+</div>
+</center>
 
 \
 

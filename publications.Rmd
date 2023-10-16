@@ -49,7 +49,7 @@ knitr::include_graphics("images/banners/marmot.JPG")
 
 ## Preprints in press
 
-[--]  Nelson-Olivieri JR, Layden TJ, Antunez E, Khalighifar A, Lasky M, **Laverty TM**, Sanchez KA, Shannon G, Starr S, Verahrami AK, Bombaci SP. In press. It’s not *just* noise: The consequences of inequitable noise for urban wildlife. Nature Ecology & Evolution. Preprint DOI: [10.21203/rs.3.rs-2753779/v1](https://doi.org/10.21203/rs.3.rs-2753779/v1)
+[--]  Nelson-Olivieri JR, Layden TJ, Antunez E, Khalighifar A, Lasky M, **Laverty TM**, Sanchez KA, Shannon G, Starr S, Verahrami AK, Bombaci SP. In press. Inequalities in noise will affect urban wildlife. Nature Ecology & Evolution. Preprint DOI: [10.21203/rs.3.rs-2753779/v1](https://doi.org/10.21203/rs.3.rs-2753779/v1)
 
 ## Peer-reviewed journal articles
 

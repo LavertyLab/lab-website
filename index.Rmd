@@ -30,7 +30,7 @@ knitr::include_graphics("images/banners/ocotillo.JPG")
 
 <h2>The Laverty Lab</h2>
 
-We are a conservation science and wildlife ecology lab in the [Department of Fish, Wildlife, and Conservation Ecology](https://fwce.nmsu.edu/) at [New Mexico State University](https://nmsu.edu/). 
+We are a conservation science and wildlife ecology lab in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/) at [New Mexico State University](https://nmsu.edu/). 
 
 <h2>Recent Lab News</h2>
 
@@ -42,7 +42,7 @@ We are a conservation science and wildlife ecology lab in the [Department of Fis
 
 **11-25-2022:** Two new Master's students are joining the lab this January. Welcome Iona Rohan (co-advised by [Dr. Jennifer Frey](https://fwce.nmsu.edu/faculty-staff/jennifer-frey.html)) and Brandi Stevenson
 
-**08-08-2022:** Theresa accepted an offer to join the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University starting January 2023. The Laverty Lab begins! 
+**08-08-2022:** Theresa accepted an offer to join the Department of Fish, Wildlife and Conservation Ecology at New Mexico State University starting January 2023. The Laverty Lab begins! 
 
 <center>
 <img src="images/NMSU_NoU-Crimson.png" width="80px">

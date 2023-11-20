@@ -55,7 +55,7 @@ knitr::include_graphics("images/banners/marmot.JPG")
 <a href="https://doi.org/10.5061/dryad.s4mw6m998" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-dryad"></i> Data</a> 
 <div style="display: inline-block">
 <a href="https://doi.org/10.5281/zenodo.7843664" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-zenodo"></i> R script</a> 
-</div>
+</div><div style="display: inline-block"><a href="https://ecoevocommunity.nature.com/posts/it-s-not-just-noise-studying-how-inequitable-noise-impacts-urban-humans-and-wildlife" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Nature – Behind the Paper</a></div>
 
 [17]  Wilkins K, Carroll SL, Davis KP, Hauptfeld R, Jones MS, Larson CL, **Laverty TM**, Pejchar L. 2023. Sexual harassment disproportionately affects ecology and evolution graduate students with multiple marginalized identities in the United States. BioScience 73(5): 376–387. doi: [10.1093/biosci/biad032](https://doi.org/10.1093/biosci/biad032)
 

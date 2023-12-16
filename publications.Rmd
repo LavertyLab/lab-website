@@ -40,7 +40,7 @@ d-title {
 
 
 ```{r layout="l-screen", echo=FALSE}
-knitr::include_graphics("images/banners/marmot.JPG")
+knitr::include_graphics("images/banners/marmot-2.JPG")
 ```
 
 <h2>Publications</h2>
@@ -55,7 +55,7 @@ knitr::include_graphics("images/banners/marmot.JPG")
 <a href="https://rdcu.be/drzoK" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
 <div style="display: inline-block">
 <a href="https://doi.org/10.5061/dryad.s4mw6m998" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-dryad"></i> Data</a></div><div style="display: inline-block">
-<a href="https://doi.org/10.5281/zenodo.7843664" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-zenodo"></i> R script</a></div><div style="display: inline-block"><a href="https://communities.springernature.com/posts/it-s-not-just-noise-studying-how-inequitable-noise-impacts-urban-wildlife-and-people" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Nature – Behind the Paper</a></div><div style="display: inline-block"><a href="https://grist.org/health/where-is-noise-pollution-worst-redlined-neighborhoods/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Grist</a></div><div style="display: inline-block"><a href="https://warnercnr.source.colostate.edu/redlining-inequitable-urban-noise/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> CSU Source</a>
+<a href="https://doi.org/10.5281/zenodo.7843664" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-zenodo"></i> R script</a></div><div style="display: inline-block"><a href="https://communities.springernature.com/posts/it-s-not-just-noise-studying-how-inequitable-noise-impacts-urban-wildlife-and-people" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Nature – Behind the Paper</a></div><div style="display: inline-block"><a href="https://grist.org/health/where-is-noise-pollution-worst-redlined-neighborhoods/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Grist</a></div><div style="display: inline-block"><a href="https://wildlife.org/inequity-in-neighborhoods-transfers-to-wildlife/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> The Wildlife Society</a></div><div style="display: inline-block"><a href="https://warnercnr.source.colostate.edu/redlining-inequitable-urban-noise/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> CSU Source</a>
 </div>
 
 [17]  Wilkins K, Carroll SL, Davis KP, Hauptfeld R, Jones MS, Larson CL, **Laverty TM**, Pejchar L. 2023. Sexual harassment disproportionately affects ecology and evolution graduate students with multiple marginalized identities in the United States. BioScience 73(5): 376–387. doi: [10.1093/biosci/biad032](https://doi.org/10.1093/biosci/biad032)

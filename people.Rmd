@@ -22,7 +22,7 @@ d-title {
 ```
 
 ```{r layout="l-screen", echo=FALSE}
-knitr::include_graphics("images/banners/elephants.JPG")
+knitr::include_graphics("images/banners/zeb-2.JPG")
 ```
 
 ## Principal Investigator

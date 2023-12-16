@@ -15,7 +15,7 @@ d-title {
 
 
 ```{r layout="l-screen", echo=FALSE}
-knitr::include_graphics("images/banners/gorilla2.JPG")
+knitr::include_graphics("images/banners/gorilla2-2.JPG")
 ```
 
 <h2>Values</h2>

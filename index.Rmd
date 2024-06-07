@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2023.jpg")
 
 <h2>Recent Lab News</h2>
 
+**06-07-2024:** The Laverty Lab received funding from the Southwest Border Resource Protection Program to continue monitoring bats of greatest conservation need. 
+
 **06-05-2024:** The lab received [an NSF BRC-BIO program award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335008&HistoricalAwards=false). Stay tuned for MS and undergraduate position announcements!
 
 **11-20-2023:** Theresa coauthored [a new paper](https://rdcu.be/drzoK) published in Nature Ecology & Evolution

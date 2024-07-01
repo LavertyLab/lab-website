@@ -91,6 +91,8 @@ Brandi Stevenson (she/her) joined the lab in spring 2023 as a Master’s student
 
 <center>
 <div style="display: inline-block">
+<a href="https://www.researchgate.net/profile/Brandi_Stevenson2" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div>
+<div style="display: inline-block">
 <a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
 <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>

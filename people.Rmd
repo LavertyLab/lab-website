@@ -55,7 +55,31 @@ Theresa Laverty (she/her) is an Assistant Professor in the [Department of Fish, 
 </center>
 
 
-## Students
+## Graduate Students
+
+:::float-left
+
+<img src="images/people/taylor-pichler.jpg" width="250px">
+
+### Taylor Pichler
+
+Taylor Pichler (he/his) joined the lab in fall 2024 as a Master’s student in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). His research focuses on the interactive ecology of bats, arthropods, and plant communities at the Jornada Basin Long-Term Ecological Research site in southern New Mexico. Taylor earned his B.S. in Fisheries and Wildlife Ecology from Northland College in 2019. Before NMSU, Taylor worked on field projects with a variety of wildlife (e.g., sage grouse, prairie dogs, bats, moose, and mountain lions) as a seasonal wildlife technician for Colorado Parks and Wildlife. His previous experience with bats includes swabbing for white-nose syndrome at Colorado national parks and tracking bats to their roosts with radio telemetry. In his free time, Taylor enjoys mountain biking, hiking, and camping.
+
+:::
+
+<center>
+<div style="display: inline-block">
+<a href="https://www.researchgate.net/profile/Taylor-Pichler" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div>
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=mailto:sbrandi@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> sbrandi {at} nmsu.edu</a> -->
+<!-- </div> -->
+</center>
+
+\
 
 :::float-left
 

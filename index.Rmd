@@ -38,7 +38,7 @@ knitr::include_graphics("images/people/lab2023.jpg")
 
 <h2>Recent Lab News</h2>
 
-**17-Jul-2023:** We're excited to have Taylor Pichler joining the lab as a new Master's student in the fall. Welcome, Taylor!
+**17-Jul-2024:** We're excited to have Taylor Pichler joining the lab as a new Master's student in the fall. Welcome, Taylor!
 
 **07-Jun-2024:** The Laverty Lab received funding from the Southwest Border Resource Protection Program to continue monitoring bats of greatest conservation need. 
 

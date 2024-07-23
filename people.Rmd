@@ -74,9 +74,9 @@ Taylor Pichler (he/his) joined the lab in fall 2024 as a Master’s student in t
 <!-- <a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
 <!-- <div style="display: inline-block"> -->
 <!-- <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div> -->
-<!-- <div style="display: inline-block"> -->
-<!-- <a href=mailto:sbrandi@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> sbrandi {at} nmsu.edu</a> -->
-<!-- </div> -->
+<div style="display: inline-block">
+<a href=mailto:tpichler@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> tpichler {at} nmsu.edu</a> 
+</div>
 </center>
 
 \

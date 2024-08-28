@@ -49,7 +49,7 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 
 ## Peer-reviewed journal articles
 
-[18]  Nelson-Olivieri JR, Layden TJ, Antunez E, Khalighifar A, Lasky M, **Laverty TM**, Sanchez KA, Shannon G, Starr S, Verahrami AK, Bombaci SP. 2023. Inequalities in noise will affect urban wildlife. Nature Ecology & Evolution. doi: [10.1038/s41559-023-02257-9](https://rdcu.be/drzoK)
+[18]  Nelson-Olivieri JR, Layden TJ, Antunez E, Khalighifar A, Lasky M, **Laverty TM**, Sanchez KA, Shannon G, Starr S, Verahrami AK, Bombaci SP. 2024. Inequalities in noise will affect urban wildlife. Nature Ecology & Evolution 8(1): 163–174. doi: [10.1038/s41559-023-02257-9](https://rdcu.be/drzoK)
 
 <div style="display: inline-block">
 <a href="https://rdcu.be/drzoK" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>

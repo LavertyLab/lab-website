@@ -70,8 +70,8 @@ Taylor Pichler (he/his) joined the lab in fall 2024 as a Master’s student in t
 <center>
 <div style="display: inline-block">
 <a href="https://www.researchgate.net/profile/Taylor-Pichler" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div>
-<!-- <div style="display: inline-block"> -->
-<!-- <a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<div style="display: inline-block">
+<a href=https://github.com/tpichler98 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <!-- <div style="display: inline-block"> -->
 <!-- <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div> -->
 <div style="display: inline-block">

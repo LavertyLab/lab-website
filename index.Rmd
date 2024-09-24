@@ -38,7 +38,7 @@ knitr::include_graphics("images/people/lab2023.jpg")
 
 <h2>Recent Lab News</h2>
 
-**19-Sept-2024:** The Frey and Laverty labs received funding from the Bureau of Land Management to continue researching the impacts of wind energy development on terrestrial mammals. Visit [Join the Lab](https://lavertylab.org/join-the-lab) for MS and eventual undergraduate position listings. 
+**19-Sept-2024:** The Frey and Laverty labs received funding from the Bureau of Land Management to continue researching the effects of wind energy development on terrestrial mammals. Visit [Join the Lab](https://lavertylab.org/join-the-lab) for MS and eventual undergraduate position listings. 
 
 **17-Jul-2024:** We're excited to have Taylor Pichler joining the lab as a new Master's student in the fall. Welcome, Taylor!
 

@@ -49,6 +49,19 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 
 ## Peer-reviewed journal articles
 
+[19]  Monadjem A, Montauban C, Webala PW, **Laverty TM**, Bakwo-Fils EM, Torrent L, Tanshi I, Kane A, Rutrough AL, Waldien DL, Taylor PJ. 2024. African bat database: curated data of occurrences, distributions and conservation metrics for sub-Saharan bats. Scientific Data 11: 1309. doi: [10.1038/s41597-024-04170-7](https://doi.org/10.1038/s41597-024-04170-7)
+
+<div style="display: inline-block">
+<a href="https://www.nature.com/articles/s41597-024-04170-7.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
+<div style="display: inline-block">
+<a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41597-024-04170-7/MediaObjects/41597_2024_4170_MOESM1_ESM.doc" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-word-o"></i> Supplementary information</a></div>
+<div style="display: inline-block"><a href="https://figshare.com/articles/dataset/African_Bat_Database/26363308" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-figshare"></i> Data and R scripts</a> </div>
+<div style="display: inline-block">
+<a href=https://github.com/kanead/Bat_database class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub repository with living dataset</a> </div>
+<div style="display: inline-block">
+<a href=https://adam-kane.shinyapps.io/african_bat_dist/ class="icon-link" target="_blank" rel="noopener"><i class="fa-brands fa-r-project"></i> R Shiny app for data visualization</a> 
+</div>
+
 [18]  Nelson-Olivieri JR, Layden TJ, Antunez E, Khalighifar A, Lasky M, **Laverty TM**, Sanchez KA, Shannon G, Starr S, Verahrami AK, Bombaci SP. 2024. Inequalities in noise will affect urban wildlife. Nature Ecology & Evolution 8(1): 163–174. doi: [10.1038/s41559-023-02257-9](https://rdcu.be/drzoK)
 
 <div style="display: inline-block">

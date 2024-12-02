@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2023.jpg")
 
 <h2>Recent Lab News</h2>
 
+**2-Dec-2024:** Theresa coauthored [a new data paper](https://doi.org/10.1038/s41597-024-04170-7) published today in Scientific Data featuring > 17,000 curated locality records of African bats.
+
 **17-Jul-2024:** We're excited to have Taylor Pichler joining the lab as a new Master's student in the fall. Welcome, Taylor!
 
 **07-Jun-2024:** The Laverty Lab received funding from the Southwest Border Resource Protection Program to continue monitoring bats of greatest conservation need. 

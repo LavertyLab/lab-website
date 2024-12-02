@@ -31,15 +31,17 @@ The Laverty Lab is always willing to work with eager and motivated NMSU undergra
 ## Prospective graduate students:
 
 <!-- **Current openings:** -->
-<!-- <li>M.S. assistantship in applied community ecology: bats, arthropods, and plants. This position has an anticipated start date of August 2024 and fieldwork in southern New Mexico. This position is supported by NSF funding for 3 years. Apply as soon as possible (preferably by late June) for full consideration. Applications will be reviewed as they are received. </li> -->
+<!-- <li>M.S. assistantship: Wind energy impacts on medium and large mammals. This position is coadvised by [Dr. Jennifer Frey](https://sites.google.com/view/frey-lab/home?authuser=0) and has an anticipated start date of January 2025 and fieldwork in central New Mexico. This position is supported by Bureau of Land Management funding for 3 years. Apply by Sunday, October 13th for full consideration. Interviews will be scheduled during the week of October 14th. </li> -->
 <!-- <center> -->
-<!-- <div style="display: inline-block"><a href="attachments/openings/2024_CommunityEcologyAssistantship.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> Full position description</a></div><div style="display: inline-block"><a href="https://airtable.com/appFBVonMNEDt89yy/pagMOP03BMUVIWjTC/form" class="icon-link" target="_blank" rel="noopener"><i class=""></i> Apply here</a> -->
-<!-- </div> -->
-<!-- </center> -->
+<!-- <div style="display: inline-block"><a href="attachments/openings/2025_Wildlife-WindEnergyAssistantship.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> Full position description</a></div><div style="display: inline-block"><a href="https://airtable.com/apppXPmuyXykkQFgn/shrrAPDTviAq7EDgY" class="icon-link" target="_blank" rel="noopener"><i class=""></i> Apply here</a>  -->
+<!-- </div>  -->
+<!-- </center>  -->
 
 M.S. and Ph.D. students at New Mexico State University are typically supported by a mix of teaching and research assistantships. Right now, both M.S. and Ph.D. students receive a ~$2,000 / month stipend. Theresa budgets for the cost of tuition and health insurance whenever possible in grant applications. The Laverty Lab's ability to take on graduate students (and particularly Ph.D. students) is therefore contingent on the availability of funding. She will not support students' applications without adequate funding.
 
 [This publication](https://doi.org/10.1002/bes2.2029) provides a nice overview of what applying to grad school looks like in our field. We highly recommend that you review it before contacting Theresa (or any other potential advisor).
+
+<!--**All funded graduate positions in the lab are listed above.** -->
 
 **All funded graduate positions in the lab are full at this time.** However, if you are interested in securing your own funding as you apply for graduate programs and research interests overlap, Theresa is happy to assist with fellowship applications to programs, such as the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/), the [US Fulbright Program](https://us.fulbrightonline.org/), and the [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/). Similarly, Theresa would be happy to work with prospective international students on applications for the [Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/about/foreign-student-program), a [WWF Russell E. Train Fellowship](https://www.worldwildlife.org/projects/russell-e-train-fellowships), or other opportunities. If you want to pursue a fellowship application, send an email to [tlaverty {at} nmsu.edu](mailto:tlaverty@nmsu.edu) containing a short explanation of an idea you'd like to pursue, a pathway for pursuing it (e.g., a link to a funding source), and a CV with contact information for at least three references.
 

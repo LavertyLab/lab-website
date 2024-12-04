@@ -59,6 +59,31 @@ Theresa Laverty (she/her) is an Assistant Professor in the [Department of Fish, 
 
 :::float-left
 
+<img src="images/people/morgan-monroe.jpg" width="250px">
+
+### Morgan Monroe
+
+Morgan Monroe (she/her) joined the lab in spring 2024 as a Master’s student co-advised by Dr. Jennifer Frey in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). She is studying the effects of wind energy development on terrestrial mammals in central New Mexico. Morgan earned her B.S. in Fish and Wildlife Ecology and Management from Montana State University in 2023. While working on her undergraduate degree, she worked on the Custer-Gallatin National Forest as a wildlife technician and worked for Montana Fish, Wildlife & Parks conducting bighorn sheep surveys. She conducted an undergraduate research project using camera traps to measure how species diversity changed seasonally in terrestrial mammal populations. In her free time, she enjoys backpacking and birding.
+
+:::
+
+<!-- <center> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href="https://www.researchgate.net/profile/Taylor-Pichler" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/tpichler98 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<!-- <!-- <div style="display: inline-block"> --> 
+<!-- <!-- <a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=mailto:tpichler@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> tpichler {at} nmsu.edu</a>  -->
+<!-- </div> -->
+<!-- </center> -->
+
+<!-- \ -->
+<br/><br/>
+
+:::float-left
+
 <img src="images/people/taylor-pichler.jpg" width="250px">
 
 ### Taylor Pichler

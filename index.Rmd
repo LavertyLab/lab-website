@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2023.jpg")
 
 <h2>Recent Lab News</h2>
 
+**04-Dec-2024:** We're excited to have Morgan Monroe joining the Frey and Laverty labs as a new Master's student in the spring. Welcome, Morgan!
+
 **02-Dec-2024:** Theresa coauthored [a new data paper](https://doi.org/10.1038/s41597-024-04170-7) published today in Scientific Data featuring > 17,000 curated locality records of African bats.
 
 **19-Sept-2024:** The Frey and Laverty labs received funding from the Bureau of Land Management to continue researching the effects of wind energy development on terrestrial mammals. Visit [Join the Lab](https://lavertylab.org/join-the-lab) for MS and eventual undergraduate position listings. 

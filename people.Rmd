@@ -46,7 +46,7 @@ Theresa Laverty (she/her) is an Assistant Professor in the [Department of Fish, 
 <div style="display: inline-block">
 <a href=https://github.com/theresalaverty class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
-<a href=https://twitter.com/theresalaverty class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
+<a href=https://bsky.app/profile/theresalaverty.bsky.social class="icon-link" target="_blank" rel="noopener"><i class="fa-brands fa-bluesky"></i> Bluesky</a></div>
 <div style="display: inline-block">
 <a href="attachments/Knox floor plan (1).pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-building"></i> Knox Hall 127</a> </div>
 <div style="display: inline-block">
@@ -144,8 +144,6 @@ Brandi Stevenson (she/her) joined the lab in spring 2023 as a Master’s student
 <div style="display: inline-block">
 <a href=https://github.com/brandistevenson class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
-<a href=https://twitter.com/Brandi_Stx class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
-<div style="display: inline-block">
 <a href=mailto:sbrandi@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> sbrandi {at} nmsu.edu</a>
 </div>
 </center>
@@ -168,7 +166,7 @@ Holly Whited (she/her) joined the lab in fall 2023 as a Master’s student in th
 <div style="display: inline-block">
 <a href=https://github.com/hwhit207 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
-<a href=https://twitter.com/HollyAWhited class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></div>
+<a href=https://bsky.app/profile/hollywhited.bsky.social class="icon-link" target="_blank" rel="noopener"><i class="fa-brands fa-bluesky"></i> Bluesky</a></div>
 <div style="display: inline-block">
 <a href=mailto:hwhited@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> hwhited {at} nmsu.edu</a>
 </div>

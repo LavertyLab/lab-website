@@ -44,7 +44,8 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 ```
 
 <h2>Publications</h2>
-<center> <p style="font-size:0.9rem">Names in **bold** represent Laverty Lab personnel. If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} nmsu.edu](mailto:tlaverty@nmsu.edu).</p> 
+<center> <p style="font-size:0.9rem">Names in **bold** represent Laverty Lab personnel. </p>
+<p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} nmsu.edu](mailto:tlaverty@nmsu.edu).</p> 
 </center>
 
 ## In Review

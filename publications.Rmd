@@ -57,9 +57,9 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 [20]  **Laverty TM**, Buecher DC, Dalton DC, Davies ML, Gual-Suárez F, Heady III PA, Medellín RA, Ordóñez-García MC, Pérez-Harp S, Rivera-Villanueva AN, **Stevenson BD**, Stoner KE, Wolf SA, Zamora-Gutierrez V, Zavala-Norzagaray AA, Frick WF. 2025. Long-haul flights and migratory routes of a nectar-feeding bat. Ecology 106(4): e70067. doi: [10.1002/ecy.70067](https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.70067)
 
 <div style="display: inline-block">
-<a href="https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.7006" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
+<a href="https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.70067" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
 <div style="display: inline-block">
-<a href="https://esajournals-onlinelibrary-wiley-com.nmsu.idm.oclc.org/action/downloadSupplement?doi=10.1002%2Fecy.70067&file=ecy70067-sup-0001-AppendixS1.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> Supporting information</a></div>
+<a href="https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.70067&file=ecy70067-sup-0001-AppendixS1.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> Supporting information</a></div>
 <div style="display: inline-block">
 <a href="https://doi.org/10.5281/zenodo.12596763" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Data and R scripts</a></div>
 <div style="display: inline-block"><a href="https://doi.org/10.1002/bes2.70016" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Bulletin of the ESA photo gallery</a>

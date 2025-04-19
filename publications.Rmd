@@ -48,9 +48,11 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 <p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} nmsu.edu](mailto:tlaverty@nmsu.edu).</p> 
 </center>
 
-## In Review
+## In press
 
-[--]  Andrianiaina AF, Andry S, Kettenburg G, Ranaivoson HC, Lacoste V, Dussart P, Héraud J-M, **Laverty TM**, Guth S, Young KI, Andrianarimisa A, Brook CE. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. [Link to bioRxiv Preprint](https://doi.org/10.1101/2025.01.20.633693).
+[--]  Andrianiaina AF, Andry S, Kettenburg G, Ranaivoson HC, Lacoste V, Dussart P, Héraud J-M, **Laverty TM**, Guth S, Young KI, Andrianarimisa A, Brook CE. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. Parasites & Vectors. [Link to bioRxiv Preprint](https://doi.org/10.1101/2025.01.20.633693).
+
+[--] Waag AG, Johnson JS, Schorr RA, Frick WF, **Laverty TM**, Neubaum DJ, Siemers JL, Treanor JJ, Reyes GA, Halstead BJ. Using passive integrated transponder (PIT) tags to monitor and research bats: applications, benefits, and limitations. Journal of North American Bat Research.
 
 ## Peer-reviewed journal articles
 
@@ -61,9 +63,12 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 <div style="display: inline-block">
 <a href="https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.70067&file=ecy70067-sup-0001-AppendixS1.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> Supporting information</a></div>
 <div style="display: inline-block">
-<a href="https://doi.org/10.5281/zenodo.12596763" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Data and R scripts</a></div>
-<div style="display: inline-block"><a href="https://doi.org/10.1002/bes2.70016" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Bulletin of the ESA photo gallery</a>
+<a href="https://doi.org/10.5281/zenodo.12596763" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Data and R script</a></div>
+<div style="display: inline-block"><a href="https://doi.org/10.1002/bes2.70016" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Bulletin of the ESA photo gallery</a></div>
+<div style="display: inline-block">
+<a href= "https://www.batcon.org/press/lesser-long-nosed-bats-are-long-distance-flight-phenoms/" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-newspaper"></i> Bat Conservation International</a>
 </div>
+
 
 [19]  Monadjem A, Montauban C, Webala PW, **Laverty TM**, Bakwo-Fils EM, Torrent L, Tanshi I, Kane A, Rutrough AL, Waldien DL, Taylor PJ. 2024. African bat database: curated data of occurrences, distributions and conservation metrics for sub-Saharan bats. Scientific Data 11: 1309. doi: [10.1038/s41597-024-04170-7](https://doi.org/10.1038/s41597-024-04170-7)
 

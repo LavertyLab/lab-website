@@ -54,9 +54,13 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 
 [--] Montauban C, Budinski I, Webala PW, **Laverty TM**, Tanshi I, Torrent L, Bakwo-Fils EM, Taylor PJ, Kane A, Monadjem A. Underrepresentation of bats in Africa’s protected areas. Conservation Biology. 
 
-[--] Waag AG, Johnson JS, Schorr RA, Frick WF, **Laverty TM**, Neubaum DJ, Siemers JL, Treanor JJ, Reyes GA, Halstead BJ. Using passive integrated transponder (PIT) tags to monitor and research bats: applications, benefits, and limitations. Journal of North American Bat Research.
-
 ## Peer-reviewed journal articles
+
+[21] Waag AG, Johnson JS, Schorr RA, Frick WF, **Laverty TM**, Neubaum DJ, Siemers JL, Treanor JJ, Reyes GA, Halstead BJ. 2025. Using passive integrated transponder (PIT) tags to monitor and research bats: applications, benefits, and limitations. Journal of North American Bat Research, Special Issue 1: 100–118. 
+
+<div style="display: inline-block">
+<a href="https://www.eaglehill.us/nabr-pdfs-special/nabr-008-Waag.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
+</div>
 
 [20]  **Laverty TM**, Buecher DC, Dalton DC, Davies ML, Gual-Suárez F, Heady III PA, Medellín RA, Ordóñez-García MC, Pérez-Harp S, Rivera-Villanueva AN, **Stevenson BD**, Stoner KE, Wolf SA, Zamora-Gutierrez V, Zavala-Norzagaray AA, Frick WF. 2025. Long-haul flights and migratory routes of a nectar-feeding bat. Ecology 106(4): e70067. doi: [10.1002/ecy.70067](https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.70067)
 

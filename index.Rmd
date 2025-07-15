@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2025.jpg")
 
 <h2>Recent Lab News</h2>
 
+**15-Jul-2025:** Theresa had two publications come out this week! Check out [the bat PIT tag paper](https://www.eaglehill.us/nabr-pdfs-special/nabr-008-Waag.pdf) in *Journal of North American Bat Research* and [the paper](https://doi.org/10.1111/cobi.70108) highlighting the underrepresentation of bats in Africa's protected areas in *Conservation Biology*. 
+
 **30-May-2025:** We're excited to have Matt Becker joining the Frey and Laverty labs as a new Master's student in the fall. Welcome, Matt!
 
 **12-Apr-2025:** Theresa and Brandi had [a new paper](https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.70067) published this week in *Ecology* and [a companion photo gallery](https://doi.org/10.1002/bes2.70016) in *The Bulletin of the Ecological Society of America* highlighting lesser long-nosed bat movements as far as 1631 km!

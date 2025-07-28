@@ -53,6 +53,8 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 [23]  Andrianiaina AF, Andry S, Kettenburg G, Ranaivoson HC, Lacoste V, Dussart P, Héraud J-M, **Laverty TM**, Guth S, Young KI, Andrianarimisa A, Brook CE. 2025. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. Parasites & Vectors 18: 302. doi: [10.1186/s13071-025-06805-z](https://doi.org/10.1186/s13071-025-06805-z)
 
 <div style="display: inline-block"><a href="attachments/publications/Andrianiaina et al_2025_Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
+<div style="display: inline-block">
+<a href="https://github.com/brooklabteam/Mada-Ectoparasites" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Data and R script</a>
 </div>
 
 [22] Montauban C, Budinski I, Webala PW, **Laverty TM**, Tanshi I, Torrent L, Bakwo-Fils EM, Taylor PJ, Kane A, Monadjem A. 2025. Underrepresentation of bats in Africa’s protected areas. Conservation Biology: e70108. doi: [10.1111/cobi.70108](https://doi.org/10.1111/cobi.70108)

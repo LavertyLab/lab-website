@@ -29,7 +29,7 @@ knitr::include_graphics("images/banners/truchaslake-2.JPG")
 
 The opportunity to teach and mentor undergraduate and graduate students is a tremendous privilege and responsibility. I am committed to providing high quality classroom learning and mentoring experiences that train students to become natural resource leaders. In my teaching, I reflect on my own experiences as a first-generation college student to prioritize inclusive pedagogy and active learning. I teach to foster lasting learning by incorporating principles from memory research into the field, lecture, and laboratory components of the courses that I offer.
 
-````{r, fig.align = "center", out.width = "80%", fig.cap="Theresa Laverty presenting at a Teen Science Café in Fort Collins, CO. Photo by Garrett Sisson."}
+````{r, fig.align = "center", out.width = "80%", fig.cap="Theresa Laverty presenting at a Teen Science Café in Fort Collins, Colorado. Photo by Garrett Sisson."}
 knitr::include_graphics("images/teaching/teen-science-cafe.jpg")
 ````
 

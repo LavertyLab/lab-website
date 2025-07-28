@@ -48,11 +48,12 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 <p style="font-size:0.9rem">If you are unable to access any of our publications, we would be very happy to provide PDFs upon request at no cost! Just send Theresa an email at [tlaverty {at} nmsu.edu](mailto:tlaverty@nmsu.edu).</p> 
 </center>
 
-## In press
-
-[--]  Andrianiaina AF, Andry S, Kettenburg G, Ranaivoson HC, Lacoste V, Dussart P, Héraud J-M, **Laverty TM**, Guth S, Young KI, Andrianarimisa A, Brook CE. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. Parasites & Vectors. [Link to bioRxiv Preprint](https://doi.org/10.1101/2025.01.20.633693).
-
 ## Peer-reviewed journal articles
+
+[23]  Andrianiaina AF, Andry S, Kettenburg G, Ranaivoson HC, Lacoste V, Dussart P, Héraud J-M, **Laverty TM**, Guth S, Young KI, Andrianarimisa A, Brook CE. 2025. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. Parasites & Vectors 18: 302. doi: [10.1186/s13071-025-06805-z](https://doi.org/10.1186/s13071-025-06805-z)
+
+<div style="display: inline-block"><a href="attachments/publications/Andrianiaina et al_2025_Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
+</div>
 
 [22] Montauban C, Budinski I, Webala PW, **Laverty TM**, Tanshi I, Torrent L, Bakwo-Fils EM, Taylor PJ, Kane A, Monadjem A. 2025. Underrepresentation of bats in Africa’s protected areas. Conservation Biology: e70108. doi: [10.1111/cobi.70108](https://doi.org/10.1111/cobi.70108)
 

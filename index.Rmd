@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2025.jpg")
 
 <h2>Recent Lab News</h2>
 
+**28-Jul-2025:** Theresa coauthored a [publication](https://doi.org/10.1186/s13071-025-06805-z) out today in *Parasites & Vectors* on the ectoparasites of two of Madasgascar's fruit bats. 
+
 **15-Jul-2025:** Theresa had two publications come out this week! Check out [the bat PIT tag paper](https://www.eaglehill.us/nabr-pdfs-special/nabr-008-Waag.pdf) in *Journal of North American Bat Research* and [the paper](https://doi.org/10.1111/cobi.70108) highlighting the underrepresentation of bats in Africa's protected areas in *Conservation Biology*. 
 
 **30-May-2025:** We're excited to have Matt Becker joining the Frey and Laverty labs as a new Master's student in the fall. Welcome, Matt!

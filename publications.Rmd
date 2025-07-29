@@ -54,6 +54,8 @@ knitr::include_graphics("images/banners/marmot-2.JPG")
 
 <div style="display: inline-block"><a href="attachments/publications/Andrianiaina et al_2025_Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i> PDF</a>
 <div style="display: inline-block">
+<a href="https://static-content.springer.com/esm/art%3A10.1186%2Fs13071-025-06805-z/MediaObjects/13071_2025_6805_MOESM1_ESM.docx" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-word-o"></i> Supplementary information 1</a></div><div style="display: inline-block">
+<a href="https://static-content.springer.com/esm/art%3A10.1186%2Fs13071-025-06805-z/MediaObjects/13071_2025_6805_MOESM2_ESM.xlsx" class="icon-link" target="_blank" rel="noopener"><i class="fa fa-file-excel-o"></i> Supplementary information 2</a></div><div style="display: inline-block">
 <a href="https://github.com/brooklabteam/Mada-Ectoparasites" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Data and R script</a>
 </div>
 

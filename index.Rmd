@@ -44,6 +44,10 @@ knitr::include_graphics("images/people/lab2025.jpg")
 
 **30-May-2025:** We're excited to have Matt Becker joining the Frey and Laverty labs as a new Master's student in the fall. Welcome, Matt!
 
+**14-May-2025:** MSc student Taylor Pichler received the Ecological Society of America's Forrest Shreve Student Research Award. Congrats, Taylor!
+
+**14-Apr-2025:** MSc student Holly Whited was awarded the Southwestern Association of Naturalists' Howard McCarley Student Research Grant. Congrats, Holly!
+
 **12-Apr-2025:** Theresa and Brandi had [a new paper](https://onlinelibrary.wiley.com/share/author/W4BV2K4ZKQMWG5TARAWJ?target=10.1002/ecy.70067) published this week in *Ecology* and [a companion photo gallery](https://doi.org/10.1002/bes2.70016) in *The Bulletin of the Ecological Society of America* highlighting lesser long-nosed bat movements as far as 1631 km!
 
 **02-Dec-2024:** Theresa coauthored [a new data paper](https://doi.org/10.1038/s41597-024-04170-7) published today in *Scientific Data* featuring > 17,000 curated locality records of African bats.

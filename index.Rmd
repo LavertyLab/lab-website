@@ -32,11 +32,13 @@ knitr::include_graphics("images/banners/ocotillo-2.JPG")
 
 We are a conservation science and wildlife ecology lab in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/) at [New Mexico State University](https://nmsu.edu/). 
 
-````{r, fig.align = "center", out.width = "80%", fig.cap="May 2025 lab photo of Theresa Laverty, Matt Becker, Taylor Pichler, Morgan Monroe, Iona Rohan, and Holly Whited. Missing Brandi Stevenson."}
-knitr::include_graphics("images/people/lab2025.jpg")
+````{r, fig.align = "center", out.width = "80%", fig.cap="October 2025 lab photo of Taylor Pichler, Matt Becker, Iona Rohan, Holly Whited, and Theresa Laverty. Missing Brandi Stevenson."}
+knitr::include_graphics("images/people/lab2025-oct.jpg")
 ````
 
 <h2>Recent Lab News</h2>
+
+**01-Oct-2025:** Congratulations to Iona Rohan for successfully defending her MS thesis today! Her work focused on the effects of wind energy on the habitat use of terrestrial mammals in central New Mexico.
 
 **28-Jul-2025:** Theresa coauthored a [publication](https://doi.org/10.1186/s13071-025-06805-z) out today in *Parasites & Vectors* on the ectoparasites of two of Madasgascar's fruit bats. 
 

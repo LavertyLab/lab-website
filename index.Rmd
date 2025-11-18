@@ -38,7 +38,7 @@ knitr::include_graphics("images/people/lab2025-oct.jpg")
 
 <h2>Recent Lab News</h2>
 
-**20-Nov-2025:** Flor Calderón and Ryan Moore will be joining the lab as new Ph.D. students in the spring. Welcome, Flor and Ryan!
+**17-Nov-2025:** Flor Calderón and Ryan Moore will be joining the lab as new Ph.D. students in the spring. Welcome, Flor and Ryan!
 
 **01-Oct-2025:** Congratulations to Iona Rohan for successfully defending her M.S. thesis today! Her work focused on the effects of wind energy on the habitat use of terrestrial mammals in central New Mexico.
 

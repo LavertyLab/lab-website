@@ -82,6 +82,50 @@ Matt Becker (he/him) joined the lab in fall 2025 as a master’s student co-advi
 
 :::float-left
 
+<img src="images/people/flor-calderon.jpg" width="250px">
+
+### Flor Calderón 
+
+Flor Calderón (she/her) joined the lab in spring 2026 as a Ph.D. student in the [Department of Plant and Environmental Sciences](https://pes.nmsu.edu/). Her research focuses on understanding how renewable energy development (wind and solar facilities) influences bat activity and behavior in New Mexico. She earned her M.S. at Angelo State University, where she used GPS transmitters to study the foraging habitat and movement of the endangered Mexican long-nosed bat. Flor’s journey into bat biology began long before graduate school, shaped by over a decade of seasonal fieldwork across the western United States. She has worked with bats in deserts, mountains, and forests for federal, state, and private organizations. These experiences deepened her appreciation for both the creatures she studies and the diverse landscapes they inhabit. Although a bat person through and through, Flor also has experience working with small mammals, mesocarnivores (e.g., the endangered black-footed ferret), birds, and desert plants. As a Southern California native, she loves rock concerts, beach days, and a blend of outdoor adventures and backcountry leisure, such as glamping and lounging in large bodies of water.
+
+:::
+
+<center>
+<div style="display: inline-block">
+<a href="https://www.researchgate.net/profile/Flor-Calderon-3" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div>
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/mpbecker121 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<div style="display: inline-block">
+<a href=mailto:fcalder@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> fcalder {at} nmsu.edu</a>
+</div>
+</center>
+
+\
+
+:::float-left
+
+<img src="images/people/ryan-moore.jpeg" width="250px">
+
+### Ryan Moore
+
+Ryan Moore  (he/him) joined the lab in spring 2026 as a Ph.D. student in the [Department of Plant and Environmental Sciences](https://pes.nmsu.edu/). His research focuses on the spatial ecology of bat and bird communities in relation to ephemeral water sources in the Sonoran and Chihuahuan Deserts. Ryan completed both his B.S. in Fish and Wildlife Conservation (2020) and M.S. in Forest Resources and Environmental Conservation (2023) at Virginia Tech. For his Master’s work, he investigated bog turtle wetland hydrology and its influence on how bog turtles utilize these fen wetlands. As an undergraduate and graduate student, he was able to work on several long-term phenology, occupancy, and population demography projects for amphibian and small mammal species in the Florida Panhandle and Blue Ridge Mountains of Virginia. Following graduation, he worked as a field technician with Oregon State University surveying the Coastal and Cascade Ranges for terrestrial and stream-associated amphibians. Prior to joining the lab, he lived on Sanibel Island, Florida, trapping and tracking Sanibel Island Rice Rats with the University of Florida. Ryan enjoys hiking, playing guitar, and traveling.
+
+:::
+
+<center>
+<!-- <div style="display: inline-block"> -->
+<!-- <a href="https://www.researchgate.net/profile/Flor-Calderon-3" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/mpbecker121 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<div style="display: inline-block">
+<a href=mailto:rmoore@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> rmoore {at} nmsu.edu</a>
+</div>
+</center>
+
+\
+
+:::float-left
+
 <img src="images/people/taylor-pichler.jpg" width="250px">
 
 ### Taylor Pichler

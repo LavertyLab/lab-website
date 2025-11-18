@@ -75,7 +75,6 @@ knitr::include_graphics("images/banners/zeb-2.JPG")
 
 \
 
-
 :::float-left
 
 <img src="images/people/flor-calderon.jpg" width="250px">

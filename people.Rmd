@@ -107,9 +107,9 @@ knitr::include_graphics("images/banners/zeb-2.JPG")
 <!-- <div style="display: inline-block"> -->
 <!-- <a href="https://www.researchgate.net/profile/Flor-Calderon-3" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div> -->
 <!-- <div style="display: inline-block"> -->
-<!-- <a href=https://github.com/mpbecker121 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<!-- <a href=https://github.com/mpbecker121 class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>f -->
 <div style="display: inline-block">
-<a href=mailto:rmoore@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> rmoore {at} nmsu.edu</a>
+<a href=mailto:moorerm@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> moorerm {at} nmsu.edu</a>
 </div>
 </center>
 

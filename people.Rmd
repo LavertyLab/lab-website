@@ -107,7 +107,7 @@ Flor Calderón (she/her) joined the lab in spring 2026 as a Ph.D. student in the
 
 ### Ryan Moore
 
-Ryan Moore (he/him) joined the lab in spring 2026 as a Ph.D. student in the [Department of Plant and Environmental Sciences](https://pes.nmsu.edu/). His research focuses on the spatial ecology of bat and bird communities in relation to ephemeral water sources in the Sonoran and Chihuahuan Deserts. Ryan completed both his B.S. in Fish and Wildlife Conservation (2020) and M.S. in Forest Resources and Environmental Conservation (2023) at Virginia Tech. For his Master’s work, he investigated bog turtle wetland hydrology and its influence on how bog turtles utilize these fen wetlands. As an undergraduate and graduate student, he was able to work on several long-term phenology, occupancy, and population demography projects for amphibian and small mammal species in the Florida Panhandle and Blue Ridge Mountains of Virginia. Following graduation, he worked as a field technician with Oregon State University surveying the Coastal and Cascade Ranges for terrestrial and stream-associated amphibians. Prior to joining the lab, he lived on Sanibel Island, Florida, trapping and tracking Sanibel Island Rice Rats with the University of Florida. Ryan enjoys hiking, playing guitar, and traveling.
+Ryan Moore (he/him) joined the lab in spring 2026 as a Ph.D. student in the [Department of Plant and Environmental Sciences](https://pes.nmsu.edu/). His research focuses on the ecology of bat and bird communities in relation to ephemeral water sources in the Sonoran and Chihuahuan Deserts. Ryan completed both his B.S. in Fish and Wildlife Conservation (2020) and M.S. in Forest Resources and Environmental Conservation (2023) at Virginia Tech. For his Master’s work, he investigated bog turtle wetland hydrology and its influence on how bog turtles utilize these fen wetlands. As an undergraduate and graduate student, he was able to work on several long-term phenology, occupancy, and population demography projects for amphibian and small mammal species in the Florida Panhandle and Blue Ridge Mountains of Virginia. Following graduation, he worked as a field technician with Oregon State University surveying the Coastal and Cascade Ranges for terrestrial and stream-associated amphibians. Prior to joining the lab, he lived on Sanibel Island, Florida, trapping and tracking Sanibel Island Rice Rats with the University of Florida. Ryan enjoys hiking, playing guitar, and traveling.
 
 :::
 
@@ -164,6 +164,28 @@ Iona Rohan (she/her) joined the lab in spring 2023 as a master’s student co-ad
 <a href=https://github.com/ionarohan class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
 <div style="display: inline-block">
 <a href=mailto:irohan@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> irohan {at} nmsu.edu</a>
+</div>
+</center>
+
+\
+
+:::float-left
+
+<img src="images/people/melanie-solis-alvarez.jpg" width="250px">
+
+### Melanie Solis Alvarez
+
+Melanie Solis Alvarez (she/ her) joined the lab in spring 2026 as a master’s student co-advised by [Dr. Wiebke Boeing](https://fwce.nmsu.edu/faculty-staff/wiebke-j-boeing.html) in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). Her research focuses on a horizon scan on ongoing and emerging issues regarding ecosystem structure and function. Originally from Santa Fe, NM, Melanie received her B.S. in Environmental Science from the University of Portland in 2022. As an undergraduate, she worked as a Research GIS Assistant. She also holds an A.S. in General Engineering from Santa Fe Community College. Melanie is the Stewardship Associate at the Santa Fe Conservation Trust, where she monitors conservation easements and does various restoration work on SFCT properties. In her free time, Melanie enjoys cooking, watching movies, traveling, and enjoying the outdoors.
+
+:::
+
+<center>
+<div style="display: inline-block">
+<!-- <a href="https://www.researchgate.net/profile/Iona-Rohan" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/ionarohan class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<a href=mailto:msolis26@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> msolis26 {at} nmsu.edu</a>
 </div>
 </center>
 

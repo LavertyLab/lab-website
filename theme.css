@@ -58,6 +58,11 @@ d-byline {
 .d-contents {
   --heading-size:    18px;
   --contents-size:   13px;
+
+
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 /*-- ARTICLE APPENDIX --*/
@@ -237,3 +242,5 @@ img[src="images/banners/marmot.JPG"] {
   width: 100%;
   margin: 0px 10px 0px 0px;
 }
+
+

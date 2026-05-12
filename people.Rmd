@@ -3,7 +3,8 @@ title: "People"
 output:
   distill::distill_article:
     toc: false
-    toc_depth: 3
+    #toc_depth: 2
+    toc_float: false # Floats left when width > 1000px
     css:
       - small-spacing.css
 ---
@@ -107,7 +108,7 @@ Flor Calderón (she/her) joined the lab in spring 2026 as a Ph.D. student in the
 
 ### Ryan Moore
 
-Ryan Moore (he/him) joined the lab in spring 2026 as a Ph.D. student in the [Department of Plant and Environmental Sciences](https://pes.nmsu.edu/). His research focuses on the ecology of bat and bird communities in relation to ephemeral water sources in the Sonoran and Chihuahuan Deserts. Ryan completed both his B.S. in Fish and Wildlife Conservation (2020) and M.S. in Forest Resources and Environmental Conservation (2023) at Virginia Tech. For his Master’s work, he investigated bog turtle wetland hydrology and its influence on how bog turtles utilize these fen wetlands. As an undergraduate and graduate student, he was able to work on several long-term phenology, occupancy, and population demography projects for amphibian and small mammal species in the Florida Panhandle and Blue Ridge Mountains of Virginia. Following graduation, he worked as a field technician with Oregon State University surveying the Coastal and Cascade Ranges for terrestrial and stream-associated amphibians. Prior to joining the lab, he lived on Sanibel Island, Florida, trapping and tracking Sanibel Island Rice Rats with the University of Florida. Ryan enjoys hiking, playing guitar, and traveling.
+Ryan Moore (he/him) joined the lab in spring 2026 as a Ph.D. student in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). His research focuses on the ecology of bat and bird communities in relation to ephemeral water sources in the Sonoran and Chihuahuan Deserts. Ryan completed both his B.S. in Fish and Wildlife Conservation (2020) and M.S. in Forest Resources and Environmental Conservation (2023) at Virginia Tech. For his Master’s work, he investigated bog turtle wetland hydrology and its influence on how bog turtles utilize these fen wetlands. As an undergraduate and graduate student, he was able to work on several long-term phenology, occupancy, and population demography projects for amphibian and small mammal species in the Florida Panhandle and Blue Ridge Mountains of Virginia. Following graduation, he worked as a field technician with Oregon State University surveying the Coastal and Cascade Ranges for terrestrial and stream-associated amphibians. Prior to joining the lab, he lived on Sanibel Island, Florida, trapping and tracking Sanibel Island Rice Rats with the University of Florida. Ryan enjoys hiking, playing guitar, and traveling.
 
 :::
 
@@ -147,27 +148,27 @@ Taylor Pichler (he/him) joined the lab in fall 2024 as a master’s student in t
 
 \
 
-:::float-left
+<!-- :::float-left -->
 
-<img src="images/people/iona-rohan.jpeg" width="250px">
+<!-- <img src="images/people/iona-rohan.jpeg" width="250px"> -->
 
-### Iona Rohan
+<!-- ### Iona Rohan -->
 
-Iona Rohan (she/her) joined the lab in spring 2023 as a master’s student co-advised by [Dr. Jennifer Frey](https://sites.google.com/view/frey-lab/home) in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). She is studying the effects of wind energy development on terrestrial mammals in central New Mexico. Prior to NMSU, Iona spent two years monitoring northern spotted owls as a seasonal wildlife technician for the US Forest Service. She earned her B.S. in Environmental Science and Terrestrial Resource Management in 2020 from the University of Washington, where she volunteered in a genetics lab identifying individual coyotes with fecal genotyping. Her undergraduate research project consisted of a spatially explicit capture-recapture model to estimate seasonal coyote population density in relation to wolf pack home ranges in eastern Washington. 
+<!-- Iona Rohan (she/her) joined the lab in spring 2023 as a master’s student co-advised by [Dr. Jennifer Frey](https://sites.google.com/view/frey-lab/home) in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/). She is studying the effects of wind energy development on terrestrial mammals in central New Mexico. Prior to NMSU, Iona spent two years monitoring northern spotted owls as a seasonal wildlife technician for the US Forest Service. She earned her B.S. in Environmental Science and Terrestrial Resource Management in 2020 from the University of Washington, where she volunteered in a genetics lab identifying individual coyotes with fecal genotyping. Her undergraduate research project consisted of a spatially explicit capture-recapture model to estimate seasonal coyote population density in relation to wolf pack home ranges in eastern Washington.  -->
 
-:::
+<!-- ::: -->
 
-<center>
-<div style="display: inline-block">
-<a href="https://www.researchgate.net/profile/Iona-Rohan" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div>
-<div style="display: inline-block">
-<a href=https://github.com/ionarohan class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div>
-<div style="display: inline-block">
-<a href=mailto:irohan@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> irohan {at} nmsu.edu</a>
-</div>
-</center>
+<!-- <center> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href="https://www.researchgate.net/profile/Iona-Rohan" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-researchgate"></i> Research Gate</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=https://github.com/ionarohan class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a> </div> -->
+<!-- <div style="display: inline-block"> -->
+<!-- <a href=mailto:irohan@nmsu.edu class="icon-link" target="_blank" rel="noopener"> <i class="fa fa-envelope"></i> irohan {at} nmsu.edu</a> -->
+<!-- </div> -->
+<!-- </center> -->
 
-\
+<!-- \ -->
 
 :::float-left
 
@@ -237,6 +238,22 @@ Holly Whited (she/her) joined the lab in fall 2023 as a master’s student in th
 
 \
 
+
+## Laverty Lab Alumnx
+
+<table>
+<tr>
+<td>
+<img align="left" src="images/people/iona-rohan.jpeg" width="100">
+</td>
+<td>
+**Iona Rohan** was a **Master's student** in the Laverty and Frey labs from 2023-2026 ("Evaluating the effects of wind energy facilities on the habitat selection of terrestrial mammals in central New Mexico"). She is now a private lands conservationist with Pheasants Forever in the state of Washington.
+</td>
+</tr>
+</table>
+
+<!-- * **Iona Rohan** was a **Master's student** in the Laverty and Frey labs from 2023-2026 ("Evaluating the effects of wind energy facilities on the habitat selection of terrestrial mammals in central New Mexico"). She is now a private lands conservationist with Pheasants Forever in the state of Washington. -->
+
 <!-- :::float-left -->
 
 <!-- <img src="images/people/NYTH.png" width="250px"> -->
@@ -246,3 +263,4 @@ Holly Whited (she/her) joined the lab in fall 2023 as a master’s student in th
 <!-- Our lab is currently recruiting students. Please visit the ["Join the Lab"](join-the-lab.html) tab to learn more about the positions and how to apply. -->
 
 <!-- ::: -->
+

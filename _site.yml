@@ -17,8 +17,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "People"
-      href: people.html
+    - text: "PEOPLE"
+      menu:
+        - text: "Principal Investigator"
+          href: people.html#principal-investigator
+        - text: "Graduate Students"
+          href: people.html#graduate-students
+        - text: "Laverty Lab Alumnx"
+          href: people.html#laverty-lab-alumnx
     - text: "Values"
       href: values.html
     - text: "Teaching"

@@ -38,6 +38,8 @@ knitr::include_graphics("images/people/lab2025-oct.jpg")
 
 <h2>Recent Lab News</h2>
 
+**08-Apr-2026:** Congratulations to Ryan Moore for receiving a summer fellowship in the Jornada Basin Long-Term Ecological Research (JRN-LTER) summer graduate research fellowship program (GRFP)!
+
 **19-Dec-2025:** Theresa will be coadvising Melanie Solis Alvarez's M.S. project with Dr. Wiebke Boeing beginning this spring. Welcome to the lab, Melanie!
 
 **17-Nov-2025:** Flor Calderón and Ryan Moore will be joining the lab as new Ph.D. students in the spring. Welcome, Flor and Ryan!

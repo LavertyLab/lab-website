@@ -31,6 +31,10 @@ knitr::include_graphics("images/banners/ocotillo-2.JPG")
 <h2>The Laverty Lab</h2>
 
 We are a conservation science and wildlife ecology lab in the [Department of Fish, Wildlife and Conservation Ecology](https://fwce.nmsu.edu/) at [New Mexico State University](https://nmsu.edu/). 
+````{r, fig.align = "center", out.width = "80%", fig.cap="Laverty Lab logo. Designed by NMSU undergraduate Cyrillus Sidhe."}
+knitr::include_graphics("images/baticon-largesmallanimals.png")
+````
+
 
 ````{r, fig.align = "center", out.width = "80%", fig.cap="October 2025 lab photo of Taylor Pichler, Matt Becker, Iona Rohan, Holly Whited, and Theresa Laverty. Missing Brandi Stevenson."}
 knitr::include_graphics("images/people/lab2025-oct.jpg")

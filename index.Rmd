@@ -37,11 +37,13 @@ knitr::include_graphics("images/baticon-largesmallanimals.png")
 ````
 
 
-````{r, fig.align = "center", out.width = "80%", fig.cap="October 2025 lab photo of Taylor Pichler, Matt Becker, Iona Rohan, Holly Whited, and Theresa Laverty. Missing Brandi Stevenson."}
-knitr::include_graphics("images/people/lab2025-oct.jpg")
+````{r, fig.align = "center", out.width = "80%", fig.cap="July 2026 lab photo of Flor Calderón, Taylor Pichler, Ryan Moore, Holly Whited, and Theresa Laverty. Missing Matt Becker and Melanie Solis Alvarez."}
+knitr::include_graphics("images/people/lab2026-july.jpg")
 ````
 
 <h2>Recent Lab News</h2>
+
+**02-Jul-2026:** Big day for the lab! Congratulations to Holly Whited for successfully defending her master's thesis today on the nightly movements of lesser long-nosed bats outside a U.S. maternity colony. We're also happy to report that Flor Calderón and Theresa earned a Share with Wildlife grant today from New Mexico Department of Wildlife for bat acoustic monitoring near wind energy development in central New Mexico.
 
 **08-Apr-2026:** Congratulations to Ryan Moore for receiving a summer fellowship in the Jornada Basin Long-Term Ecological Research (JRN-LTER) summer graduate research fellowship program (GRFP)!
 

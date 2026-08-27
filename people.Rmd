@@ -248,7 +248,7 @@ Brandi Stevenson (she/her) joined the lab in spring 2023 as a master’s student
 <img align="left" src="images/people/iona-rohan.jpeg" width="100">
 </td>
 <td>
-**Iona Rohan** was a **Master's student** in the Laverty and Frey labs from 2023-2026 ("Evaluating the effects of wind energy facilities on the habitat selection of terrestrial mammals in central New Mexico"). She is now a private lands conservationist with Pheasants Forever in the state of Washington.
+**Iona Rohan** was a **master's student** in the Laverty and Frey labs from 2023-2026 ("Evaluating the effects of wind energy facilities on the habitat selection of terrestrial mammals in central New Mexico"). She is now a private lands conservationist with Pheasants Forever in the state of Washington.
 </td>
 </tr>
   <!-- Second Row -->
@@ -257,7 +257,7 @@ Brandi Stevenson (she/her) joined the lab in spring 2023 as a master’s student
 <img align="left" src="images/people/holly-whited.JPG" width="100">
 </td>
 <td>
-**Holly Whited** was a **Master's student** in the Laverty lab from 2023-2026 ("Central place foraging behaviors and drivers of nightly movements of lesser long-nosed bats at the northern extent of their range"). She is now a Florida scrub jay biologist with U.S. Fish and Wildlife Service at the Cape Canaveral Space Force Station.
+**Holly Whited** was a **master's student** in the Laverty lab from 2023-2026 ("Central place foraging behaviors and drivers of nightly movements of lesser long-nosed bats at the northern extent of their range"). She is now a Florida scrub jay biologist with U.S. Fish and Wildlife Service at the Cape Canaveral Space Force Station.
 </td>
 </tr>
 </table>

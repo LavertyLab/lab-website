@@ -39,7 +39,7 @@ Theresa Laverty (she/her) is an Assistant Professor in the [Department of Fish, 
 
 <center>
 <div style="display: inline-block">
-<a href="attachments/Laverty_CV.pdf" class="icon-link" target="_blank" rel="noopener"><i class=""></i> CV</a> </div><div style="display: inline-block">
+<a href="attachments/TheresaMLaverty_CV.pdf" class="icon-link" target="_blank" rel="noopener"><i class=""></i> CV</a> </div><div style="display: inline-block">
 <a href="https://scholar.google.com/citations?user=lbgxJ2UAAAAJ&hl=en" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a> </div>
 <div style="display: inline-block"><a href="https://orcid.org/0000-0003-1727-5943" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-orcid"></i> ORCID</a> </div>
 <div style="display: inline-block">

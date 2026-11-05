@@ -43,6 +43,8 @@ knitr::include_graphics("images/people/lab2026-july.jpg")
 
 <h2>Recent Lab News</h2>
 
+**30-Oct-2026:** Theresa was interviewed by Public News Service for [a piece on bats for this year's bat week.](https://app.publicnewsservice.org/story/hangin-with-bats-on-all-hollows-eve-in-new-mexico/7b8109a4-6aab-4a50-a318-a9fe7b9f1334?)
+
 **18-Oct-2026:** The lab presented six (!!) posters and two talks this year at the North American Symposium on Bat Research. 
 
 **02-Jul-2026:** Big day for the lab! Congratulations to Holly Whited for successfully defending her master's thesis today on the nightly movements of lesser long-nosed bats outside a U.S. maternity colony. We're also happy to report that Flor Calderón and Theresa earned a Share with Wildlife grant today from New Mexico Department of Wildlife for bat acoustic monitoring near wind energy development in central New Mexico.
